@@ -29,4 +29,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Hosted on: https://morning-reaches-50451.herokuapp.com/
+Hosted on: https://crypt0prices.herokuapp.com/
